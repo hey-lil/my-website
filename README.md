@@ -11,11 +11,13 @@ _A personal portfolio website with about me, artist residency, and a home page. 
 
 #### Technologies Used
 * HTML
-* Markdown
+* CSS
+* Bootstrap
+* 
 
 #### Support/Contact
-Feel free to email me at <lillian.r.taft@gmail.com>
+Feel free to email me at <lillian.r.taft@gmail.com> 
 
 #### License
-Copyright (c) 2020 Lillian Taft and Fatma Dogan
+Copyright (c) 2020 Lillian Taft
 This webpage is licensed under the GPL License
