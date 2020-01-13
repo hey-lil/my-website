@@ -1,3 +1,18 @@
 body {
-  font-family: 
+  background-color: #BBC49D;
+  font-family: Courier 'Courier New', Courier, monospace
+}
+
+h1 {
+  color: #9BAB5D;
+  font-weight: bold;
+  float: left;
+}
+
+h2 {
+  
+}
+
+img-1 {
+  width:100%;
 }
